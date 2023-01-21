@@ -42,6 +42,10 @@ Visual Pollution detection project in KSA by SDAIA dataset.
 You can download our [model](https://drive.google.com/file/d/1srn-uJHbiYDhz6bwpJpBC-iKkDb8SAE3/view?usp=sharing) from here and also the [labels result coordinates](https://github.com/Azzam-Alhussain/Smartathon_SDAIA_Theme_1/blob/main/labels.csv) from here. 
 
 
+![vis1](https://user-images.githubusercontent.com/74447207/213851744-325c557e-d51c-447b-a662-00556567bca8.png)
+
+![vis1](https://user-images.githubusercontent.com/74447207/213851766-39683b0c-539e-425c-8815-c4ae73a1591a.jpeg)
+
 ## Demo Video 
 
 These [videos](https://drive.google.com/file/d/13B_f2DZa0Tq8de_ITXvuT6rXGt0NBuR5/view?usp=sharing) have been captured from real world streets in KSA, and we run our model on them to demonstrate how the model can be implemented in real world. Please clink on the videos to watch them
