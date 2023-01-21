@@ -1,4 +1,4 @@
-# Smartathon_SDAIA_Theme_1
+# Smartathon by SDAIA - Theme 1
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74447207/213848226-47d96eea-90b4-42b4-831f-91e9ca6dccb9.gif)
 
