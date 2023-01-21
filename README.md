@@ -40,8 +40,7 @@ Visual Pollution detection project in KSA by SDAIA dataset.
 ## Authors
 
 Azzam Alhussain  
-Abdulrahman Alghamdi
-
+Abdulrahman Alghamdi  
 Ahmed Kabli
 
 ## License
