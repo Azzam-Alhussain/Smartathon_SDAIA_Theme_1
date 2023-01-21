@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Jan 19 22:05:30 2023
 
-@author: Valeri
 """
 
 import csv
