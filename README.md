@@ -37,6 +37,11 @@ Visual Pollution detection project in KSA by SDAIA dataset.
 - [The well prepared data for training with YOLOv5 format coordiantes](https://drive.google.com/file/d/1_PF_JeAngh0PlW2gkNDuXfvjm9RMVKRM/view?usp=sharing)
 - [The test data for inference](https://drive.google.com/file/d/1cycWWo6rUMJcIQbHC4m9rQdTLPZRoHN-/view?usp=sharing)
 
+## Demo Video 
+
+These [videos](https://drive.google.com/file/d/13B_f2DZa0Tq8de_ITXvuT6rXGt0NBuR5/view?usp=sharing) have been captured from real world streets in KSA, and we run our model on them to demonstrate how the model can be implemented in real world. Please clink on the videos to watch them
+
+
 ## Authors
 
 Azzam Alhussain  
