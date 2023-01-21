@@ -8,7 +8,7 @@ Visual Pollution detection project in KSA by SDAIA dataset.
 
 ## Getting Started
 
-1. Getting the dataset.
+1. Getting the dataset from the Smartathon challange webiste. (https://drive.google.com/file/d/1ULqYtd9yomeGz53WBhgRdPRFB37ppeDU/view) 
 2. Start annotating using [CVAT](https://github.com/openvinotoolkit/cvat) or [Lebelimg](https://github.com/heartexlabs/labelImg).
 3. Train/test using YOLOv5 with S,M,L,X models on [Google Colab](https://app.box.com/s/z2c6p4yntzbm0pvr67ra0pwsz0ffjvm0).
 4. Evaluate and visualize the trained model on the test data.
