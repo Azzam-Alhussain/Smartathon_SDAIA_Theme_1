@@ -26,7 +26,7 @@ Visual Pollution detection project in KSA by SDAIA dataset.
 * cuDNN +8.0
 * Anaconda
 * Python +3.8.0
-* PyTorch +1.11.0 (Currently only & TBD)
+* PyTorch +1.11.0
 
 ## Dataset
 
