@@ -35,6 +35,8 @@ Visual Pollution detection project in KSA by SDAIA dataset.
 
 ## Program executing
 
+* Make sure you convert the coordinates form the CSV into YOLO format using the given code.
+
 * For training/testing, go to the [Source code](https://github.com/Azzam-Alhussain/Smartathon_SDAIA_Theme_1/blob/main/Unique_Team_YOLOv5_KSA_Visual_Pollution_Detection.ipynb) and download the file, then uplaod it into Google Colab.
 
 ## Result
