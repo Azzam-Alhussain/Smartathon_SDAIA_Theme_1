@@ -61,7 +61,7 @@ Ahmed Kabli
 
 ## License
 
-This project is licensed under the [MIT license] License - see the LICENSE.md file for details
+This project is licensed under the [MIT license](https://github.com/Azzam-Alhussain/Smartathon_SDAIA_Theme_1/blob/main/LICENSE) License - see the LICENSE.md file for details
 
 
 ## Acknowledgments
