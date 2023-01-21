@@ -17,7 +17,7 @@ Visual Pollution detection project in KSA by SDAIA dataset.
 8. Export the best.onnx model into your local machine or mount it to your drive.
 
 
-### Dependencies
+## Dependencies
 
 * [Google Colab](https://colab.research.google.com/?utm_source=scs-index) for online training/testing
 * Linux or Window 10 for local training/testing
@@ -28,14 +28,19 @@ Visual Pollution detection project in KSA by SDAIA dataset.
 * Python +3.8.0
 * PyTorch +1.11.0 (Currently only & TBD)
 
-### Program executing
-
-* For training/testing, go to the [Source code](https://github.com/Azzam-Alhussain/Smartathon_SDAIA_Theme_1/blob/main/Unique_Team_YOLOv5_KSA_Visual_Pollution_Detection.ipynb) and download the file, then uplaod it into Google Colab.
-
 ## Dataset
 
 - [The well prepared data for training with YOLOv5 format coordiantes](https://drive.google.com/file/d/1_PF_JeAngh0PlW2gkNDuXfvjm9RMVKRM/view?usp=sharing)
 - [The test data for inference](https://drive.google.com/file/d/1cycWWo6rUMJcIQbHC4m9rQdTLPZRoHN-/view?usp=sharing)
+
+## Program executing
+
+* For training/testing, go to the [Source code](https://github.com/Azzam-Alhussain/Smartathon_SDAIA_Theme_1/blob/main/Unique_Team_YOLOv5_KSA_Visual_Pollution_Detection.ipynb) and download the file, then uplaod it into Google Colab.
+
+## Result
+
+You can download our [model](https://drive.google.com/file/d/1srn-uJHbiYDhz6bwpJpBC-iKkDb8SAE3/view?usp=sharing) from here and also the [labels result coordinates](https://github.com/Azzam-Alhussain/Smartathon_SDAIA_Theme_1/blob/main/labels.csv) from here. 
+
 
 ## Demo Video 
 
